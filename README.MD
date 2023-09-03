@@ -1,6 +1,6 @@
 ### 👤 Meet Kesar Singh Sidhu 
 
-![Profile Banner.png](Profile Banner.png)
+![Profile Banner](https://github.com/KesarSidhu/KesarSidhu/assets/143668525/9b108fdb-25b1-41eb-8215-b8b72cec6e35)
 
 Hello, I'm Kesar Sidhu!
 
