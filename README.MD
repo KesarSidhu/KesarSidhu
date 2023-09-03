@@ -1,5 +1,7 @@
 ### 👤 Meet Kesar Singh Sidhu 
 
+![Profile Banner.png](https://github.com/KesarSidhu)
+
 Hello, I'm Kesar Sidhu!
 
 🎓 An aspiring Data Analyst currently pursuing a Bachelor of Science degree in Data Science with a minor in Economics at University of California, Davis. 
