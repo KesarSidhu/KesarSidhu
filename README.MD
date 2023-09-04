@@ -2,7 +2,6 @@
 
 ![Profile Banner](https://github.com/KesarSidhu/KesarSidhu/assets/143668525/50d7ddb5-961a-435e-9213-bf661fdd71ba)
 
-
 Hello, I'm Kesar Sidhu!
 
 🎓 An aspiring Data Analyst currently pursuing a Bachelor of Science degree in Data Science with a minor in Economics at University of California, Davis. 
