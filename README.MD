@@ -14,7 +14,7 @@ With a strong commitment to transforming raw data into actionable insights that 
 - Data wrangling and web scraping with Python and R.
 
 ### 📂 Projects
-Explore my projects, where I investigate data, reveal patterns, and extract compelling stories, all from my data portfolio.
+Explore my [projects](https://github.com/KesarSidhu/DataPortfolio), where I investigate data, reveal patterns, and extract compelling stories, all from my data portfolio.
 
 ### 🛠️ Tools
 - Programming Languages: SQL, Python, R
