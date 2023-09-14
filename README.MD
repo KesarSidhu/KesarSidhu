@@ -25,4 +25,3 @@ Explore my [projects](https://github.com/KesarSidhu/DataPortfolio), where I inve
 Feel free to connect with me through:
 - [Linkedln](https://www.linkedin.com/in/kesarsidhu/)
 - [Instagram](https://www.instagram.com/itzz.kstar/)
-- [Email](kesarsidhu1234@gmail.com)
