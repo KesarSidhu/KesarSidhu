@@ -18,7 +18,7 @@ Explore my [projects](https://github.com/KesarSidhu/DataPortfolio), where I inve
 
 ### 🛠️ Tools
 - Programming Languages: SQL, Python, R
-- Database Management: Microsoft Excel and PostgreSQL
+- Database Management: Microsoft Excel and MySQL
 - Data Visualization: Tableau
 
 ### 🌐 Connect With Me
