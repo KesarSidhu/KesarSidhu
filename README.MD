@@ -11,7 +11,7 @@ With a strong commitment to transforming raw data into actionable insights that 
 - Data analysis using Microsoft Excel.
 - Performing data queries and cleaning with SQL.
 - Crafting engaging dashboard visualizations using Tableau.
-- Data wrangling and web scraping with Python and R.
+- Data wrangling and programming with Python and R.
 
 ### 📂 Projects
 Explore my [projects](https://github.com/KesarSidhu/DataPortfolio), where I investigate data, reveal patterns, and extract compelling stories, all from my data portfolio.
