@@ -4,7 +4,7 @@
 
 Hello, I'm Kesar Sidhu!
 
-🎓 An aspiring Data Analyst currently pursuing a Bachelor of Science degree in Data Science with a minor in Economics at University of California, Davis. 
+🎓 An aspiring Data Analyst currently pursuing a Bachelor of Science degree in Data Science with a minor in Computer Science at University of California, Davis. 
 
 With a strong commitment to transforming raw data into actionable insights that drive informed decisions, I am actively enhancing my skills in:
 
