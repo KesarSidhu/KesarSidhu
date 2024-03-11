@@ -4,21 +4,20 @@
 
 Hello, I'm Kesar Sidhu!
 
-🎓 An aspiring Data Analyst currently pursuing a Bachelor of Science degree in Data Science with a minor in Computer Science at University of California, Davis. 
+🎓 Currently pursuing a Bachelor of Science degree in Data Science with a minor in Computer Science at University of California, Davis. 
 
 With a strong commitment to transforming raw data into actionable insights that drive informed decisions, I am actively enhancing my skills in:
 
-- Data analysis using Microsoft Excel.
 - Performing data queries and cleaning with SQL.
 - Crafting engaging dashboard visualizations using Tableau.
-- Data wrangling and programming with Python and R.
+- Programming and machine learning with Python and R.
 
 ### 📂 Projects
 Explore my [projects](https://github.com/KesarSidhu/DataPortfolio), where I investigate data, reveal patterns, and extract compelling stories, all from my data portfolio.
 
 ### 🛠️ Tools
 - Programming Languages: SQL, Python, R
-- Database Management: Microsoft Excel and MySQL
+- Database Management: MySQL
 - Data Visualization: Tableau
 
 ### 🌐 Connect With Me
